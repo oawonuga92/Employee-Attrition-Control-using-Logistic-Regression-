@@ -6,7 +6,7 @@ The Aim of the project is to apply data science techniques using supervised mach
 
 II. Dataset description
 -----------------
-The dataset contains the employee details and information regarding their work history with the company. The dataset contains 11 attributes; 9 attributes have numeric values and two attributes have string values
+The dataset contains the employee details and information regarding their work history with the company. The dataset contains 11 attributes; namely -Employee ID, -Satisfaction Level, -Last evaluation, -Number of projects, -Average monthly hours, -Time spent at the company, -Whether they have had a work accident, -Whether they have had a promotion in the last 5 years, -Status, Year of Recruitment, -Departments, -Salary. The first 9 attributes have numeric values while the last two features have string values.
 
 III. Methodology
 ------------------
